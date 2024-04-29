@@ -1,0 +1,47 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+nav img {
+    width: 50px;
+    float: left;
+}
+.menu {
+    background-color: rgb(61, 59, 59);
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+.menu li {
+    font-size: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+.menu a:hover {
+    color: pink;
+}
+.schule {
+    width: 500px;
+}
+section {
+    height: 50vh;
+    text-align: center;
+}
+.dark {
+    background-color: lightgrey;
+}
+section img {
+    width: 250px;
+    border-radius: 30%;
+}
+footer {
+    height: 20vh;
+    text-align: center;
+    
+}
